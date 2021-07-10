@@ -1,0 +1,31 @@
+body {
+  background-image: url(https://i.kym-cdn.com/photos/images/original/001/759/569/b20.jpg);
+  background-color: rgba(220,234,234,0.92);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: screen;
+}
+
+hr {
+  height: 2px;
+  border-style: hidden hidden solid;
+  border-color: black;
+  border-width: 5px;
+  width: 100%;
+}
+
+h1 {
+  color: red;
+}
+
+h3 {
+  color: red;
+}
+
+.sadmonke{
+  width: 100%;
+}
+
+.happymonke{
+  width: 150%;
+}
